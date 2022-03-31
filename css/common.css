@@ -1,0 +1,14 @@
+/* 版心  */
+.w {
+    width: 1190px;
+    margin: 0 auto;
+}
+
+/* header区域 */
+.nav{
+    height: 30px;
+    background-color: rgb(227,227,227);
+    border: 1px solid #ccc;
+}
+
+

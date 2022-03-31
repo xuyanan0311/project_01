@@ -1,0 +1,129 @@
+.c-container .c-container-logo span {
+    font-size: 20px;
+}
+.allprouducts {
+    margin-top: 20px;
+   
+}
+.allprouducts a {
+    color: red;
+    font-size: 16px;
+    font-weight: 700;
+}
+.cart-thead {
+    height: 43px;
+    line-height: 43px;
+    background-color: #f3f3f3;
+}
+.t-checkbox,.p-checkbox {
+    margin-left: 10px;
+}
+.t-checkbox,.t-goods,.t-price,.t-num,.t-sum,.t-action{
+    display: inline-block;
+    margin-right: 100px;
+}
+.t-goods {
+    margin-right: 500px;
+}
+.cart-item {
+    margin-top: 20px;
+    height: 160px;
+    border: 1px solid #666;
+    /* background-color: pink; */
+    border-top: 2px solid #666;
+}
+.itxt {
+    border: 1px solid #cacbcb;
+    width: 42px;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+    /* padding: 1px;
+    margin: 0;
+    margin-left: -1px;
+    font-size: 12px;
+    font-family: verdana;
+    color: #333;
+    -webkit-appearance: none; */
+}
+
+.p-checkbox,.p-goods,.p-price,.p-num,.p-sum,.p-action{
+    display: inline-block;
+    margin-right: 80px;
+}
+.quantity-form,.p-img,.p-msg {
+     display: inline-block;
+}
+/* 结算模块 */
+
+.cart-floatbar {
+    height: 50px;
+    border: 1px solid #f0f0f0;
+    background: #fff;
+    position: relative;
+    margin-bottom: 50px;
+    line-height: 50px;
+}
+
+.select-all {
+    float: left;
+    height: 18px;
+    line-height: 18px;
+    padding: 16px 0 16px 9px;
+    white-space: nowrap;
+}
+
+.select-all input {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.operation {
+    float: left;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.clear-all {
+    font-weight: 700;
+    margin: 0 20px;
+}
+
+.toolbar-right {
+    float: right;
+}
+
+.amount-sum {
+    float: left;
+}
+
+.amount-sum em {
+    font-weight: 700;
+    color: #E2231A;
+    padding: 0 3px;
+}
+
+.price-sum {
+    float: left;
+    margin: 0 15px;
+}
+
+.price-sum em {
+    font-size: 16px;
+    color: #E2231A;
+    font-weight: 700;
+}
+
+.btn-area {
+    font-weight: 700;
+    width: 94px;
+    height: 52px;
+    line-height: 52px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    font-family: "Microsoft YaHei";
+    background: #e54346;
+    overflow: hidden;
+}
